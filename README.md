@@ -59,4 +59,4 @@ python src/feature_extractor.py
 ```
 ## Output Image
 
-![](output/Figure_1.png)
+![output](output/Figure_1.png)
